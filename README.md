@@ -1,2 +1,2 @@
 # CG-Problems
-Interview questions and prep
+Interview questions, and general prep
